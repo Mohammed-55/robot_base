@@ -3,8 +3,8 @@ in this project, I made the robot base interface and combined it with the robot 
 2.      Making a database for the robot base.
 3.      Connect the control panel with the database.
 4.      Making a PHP page that can retrieve the information from the connected interface.
-5.	Combining the control panel of the first task with this control panel
-6.	Display the interface as a mobile web view. 
+5.	    Combining the control panel of the first task with this control panel
+6.	    Display the interface as a mobile web view. 
 
 
 here I will write the user manual to show how to use this interface:
