@@ -1,0 +1,47 @@
+.buttons_direction{
+	background-color: #555555;
+	text-align: center;
+	
+	width: 450px;
+	height: 200px;
+}
+
+.direction_content{
+	 width: 100%;
+	 height: 70%;
+	 position: relative;
+}
+.direction_div{
+	position:relative;
+	width: 80px;
+	height: 40px;
+}
+.direction_div input{
+	width: 100%;
+	height:  100%;
+}
+/*left*/
+.left_direction {
+	top: 5%;
+	left: 20%; 
+}
+/*bottom*/
+.backward_direction{
+	top:-31%;
+	left: 40%;
+}
+/*right*/
+.right_direction{
+	top: -103%;
+	left: 60%;
+}
+/*top*/
+.forward_direction{
+	top: 2%;
+	left: 40%; 
+}
+
+.stop_direction{
+	top: -31%;
+	left: 40%;
+}
